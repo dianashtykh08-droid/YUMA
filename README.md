@@ -4,7 +4,7 @@
 
 Modern luxury beauty salon website built with React, Vite and JavaScript.
 
-[Live Website](TUTAJ_WKLEJ_LINK_Z_VERCELA) • [Source Code](https://github.com/dianashtykh08-droid/YUMA)
+[Live Website](https://yuma-srnz.vercel.app/) • [Source Code](https://github.com/dianashtykh08-droid/YUMA)
 
 <br>
 
@@ -72,7 +72,7 @@ The project focuses on elegant design, responsive layout and smooth user experie
 
 ## Live Demo
 
-https://TWOJ-LINK.vercel.app
+https://https://yuma-srnz.vercel.app/
 
 ---
 
