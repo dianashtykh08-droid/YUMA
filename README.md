@@ -54,7 +54,7 @@ The project focuses on elegant design, responsive layout and smooth user experie
 
 > Replace the image below with a screenshot of the homepage.
 
-![Homepage](screenshots/homepage.png)
+![Homepage](homepage.png)
 
 ---
 
@@ -62,11 +62,11 @@ The project focuses on elegant design, responsive layout and smooth user experie
 
 | Home | Services |
 |------|----------|
-| ![](screenshots/homepage.png) | ![](screenshots/services.png) |
+| ![](homepage.png) | ![](services.png) |
 
 | Gallery | Contact |
 |---------|----------|
-| ![](screenshots/gallery.png) | ![](screenshots/contact.png) |
+| ![](gallery.png) | ![](contact.png) |
 
 ---
 
